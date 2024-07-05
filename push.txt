@@ -1,0 +1,3 @@
+# how to use git hub to push code
+# dir to your folder
+# add (git init)
